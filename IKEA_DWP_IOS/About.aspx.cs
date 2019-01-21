@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,7 +22,7 @@ namespace IKEA_DWP_IOS
                 
                 
                 
-                var data1 = 888;
+                var data2 = 888;
                 var data = findAll();
                 grdData.DataSource = data;
                 grdData.DataBind();
