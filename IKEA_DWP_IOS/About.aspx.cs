@@ -22,7 +22,7 @@ namespace IKEA_DWP_IOS
                 
                 
                 
-                var data2 = 888;
+                var data3 = 888;
                 var data = findAll();
                 grdData.DataSource = data;
                 grdData.DataBind();
